@@ -1,0 +1,37 @@
+.b1{
+    margin: auto;
+    background: #EEEEEE;
+    text-align: center;
+    margin-left: 4em;
+    margin-right: 4em;
+}
+.b0{
+     width: 91.4%;
+     margin: auto;
+     margin-top: 2px;
+     display: flex;
+     flex-direction: row;
+}
+.b2{
+    width: 30%;
+    margin-right: 2px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(112, 204, 194);
+}
+.b3{
+    width: 20%;
+    margin-right: 2px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(112, 204, 194);
+}
+.b4{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(112, 204, 194);
+}
