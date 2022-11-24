@@ -20,3 +20,16 @@
                 <p> <a href="hakkimizda.html" > Hakkimizda </a> </p>
             </div>
         </nav>
+        <h2 style="text-align: center; color: purple;"> AnaSayfa </h2>
+            <p style="text-align: center; margin: 1em;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae quaerat, quo dolorum omnis quisquam numquam fuga dicta laborum reprehenderit libero doloribus possimus obcaecati odit eius ratione dolorem minima consequatur explicabo!</p>
+            <h2 style="text-align: center; color: yellow; "> sitemizde bulunan muzik aletleri </h2>
+            <div style="list-style-position:inside ; text-align: center;">
+                <ul>
+                    <li>Gitar</li>
+                    <li>Davul</li>
+                    <li>Piyano</li>
+                    <li>Keman</li>
+                </ul>
+            </div>
+</body>
+</html>
