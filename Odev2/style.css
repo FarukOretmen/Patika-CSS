@@ -29,6 +29,7 @@
     background-color: rgb(112, 204, 194);
 }
 .b4{
+    text-align: center;
     width: 50%;
     display: flex;
     justify-content: center;
